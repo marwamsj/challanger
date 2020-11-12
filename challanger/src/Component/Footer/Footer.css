@@ -1,0 +1,15 @@
+.footer_base{
+    width: 100%;
+    padding: 48px 29px 0;
+    background-color: #151515;
+    text-align: center;
+}
+.footer_contact{
+    
+    border-bottom: 1px solid #fff;
+}
+.footer_contact p{
+    margin: 1.2% 32%;
+    line-height: 1.1rem;
+}
+

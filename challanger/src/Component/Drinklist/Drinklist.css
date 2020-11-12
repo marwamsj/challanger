@@ -1,0 +1,13 @@
+.frm{
+    display: flex;
+    flex-direction: column;
+}
+.drink_list{
+    background-color: #080808;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 10%;
+}
+.drink_list h1{
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+.drink_card img{
+    width: 150px;
+    height: 200px;
+    box-shadow: 8px 6px 7px 0px beige;
+   
+}
+.drink_card{
+    padding: 0 5% 2% 9%;
+    height: 331px;
+   
+;
+}
+.drink_card p{
+    text-transform: uppercase;
+    font-family: Times ,serif;
+    letter-spacing: .3px;
+    text-align: center;
+    line-height: 1.25;
+    padding-top: 15%;
+    width: 150px;
+}
+.drink_card button{
+    background-color: #080808;
+    color: beige;
+    border: 2px solid beige;
+    width: 150px;
+    border-radius: 50px;
+  
+}
